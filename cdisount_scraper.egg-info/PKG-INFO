@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: cdisount-scraper
+Version: 0.1
+Summary: this package scrape price from cdisount
+Home-page: https://github.com/ThibaultAndreis/scrapper
+Author: Andreis Thibault & Sapa baptiste
+License: UNKNOWN
+Description: #Module scrapping price by sku - cdiscount
+        
+        the module take a sku and return the price from the associated product from cdiscount
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

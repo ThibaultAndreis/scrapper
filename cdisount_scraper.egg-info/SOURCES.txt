@@ -1,0 +1,5 @@
+setup.py
+cdisount_scraper.egg-info/PKG-INFO
+cdisount_scraper.egg-info/SOURCES.txt
+cdisount_scraper.egg-info/dependency_links.txt
+cdisount_scraper.egg-info/top_level.txt
