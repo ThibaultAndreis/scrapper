@@ -3,6 +3,7 @@
 the module take a sku and return the price from the associated product from cdiscount
 
 you can install it with the commande ```python -m pip install scrapper```
+
 then import the module in youre script with the commande :
 
 ```import scrapper as scrapper```
