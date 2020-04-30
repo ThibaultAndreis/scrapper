@@ -1,7 +1,8 @@
 # Module scrapping price by sku - cdiscount
 
 the module take a sku and return the price from the associated product from cdiscount
-you can install it with the commande pip
+
+you can install it with the commande ```pip install scrapper```
 then import the module in youre script with the commande :
 
 ```import scrapper as scrapper```
