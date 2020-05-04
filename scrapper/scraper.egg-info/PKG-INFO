@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: cdisount-scraper
+Name: scraper
 Version: 0.1
 Summary: this package scrape price from cdisount
 Home-page: https://github.com/ThibaultAndreis/scrapper

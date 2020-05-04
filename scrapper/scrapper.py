@@ -22,7 +22,3 @@ def parse_price(selectedsku):
 
     else:
         print('undocumented error')
-
-
-sku = "rai3863349342466"
-parse_price(sku)
